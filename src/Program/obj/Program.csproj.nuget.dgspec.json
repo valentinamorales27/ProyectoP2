@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Program\\Program.csproj": {}
+    "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Program\\Program.csproj": {
+    "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Program\\Program.csproj",
-        "projectName": "Program",
-        "projectPath": "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Program\\Program.csproj",
-        "packagesPath": "C:\\Users\\valem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Program\\obj\\",
+        "projectUniqueName": "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valem\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,63 @@
           "warnAsError": [
             "NU1605"
           ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Program\\Program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Program\\Program.csproj",
+        "projectName": "Program",
+        "projectPath": "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Program\\Program.csproj",
+        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Program\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
         },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Library\\Library.csproj": {
+                "projectPath": "C:\\Users\\natal\\Desktop\\repositiorios de programacion 2\\ProyectoP2\\src\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {

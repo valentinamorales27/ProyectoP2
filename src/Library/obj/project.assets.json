@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\valem\\.nuget\\packages\\": {}
+    "C:\\Users\\Selec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Selec\\OneDrive\\Documents\\pII\\ProyectoP2\\src\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Library\\Library.csproj",
-      "packagesPath": "C:\\Users\\valem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valem\\Documents\\Programación 2\\ProyectoP2\\src\\Library\\obj\\",
+      "projectPath": "C:\\Users\\Selec\\OneDrive\\Documents\\pII\\ProyectoP2\\src\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\Selec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Selec\\OneDrive\\Documents\\pII\\ProyectoP2\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\valem\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Selec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
